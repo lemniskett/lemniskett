@@ -4,4 +4,4 @@
 <p></p>
 <img src="mokou-sleeping.png" alt="Mokou-chan!" align="center">
 <p></p>
-<img src="https://github-profile-trophy.vercel.app/?username=lemniskett&margin-w=16&margin-h=16&no-frame=true&theme=nord" alt="GitHub Trophy" width="100%">
+<img src="https://github-profile-trophy.vercel.app/?username=lemniskett&margin-w=14&margin-h=14&no-frame=true&theme=nord" alt="GitHub Trophy" width="100%">
