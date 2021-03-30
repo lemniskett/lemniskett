@@ -1,5 +1,5 @@
 <p align="center">
-    Love GNU/Linux things and FOSS, and Future DevOps. I use GitHub mostly for storing my stuffs those made my life (a bit) easier.
+    Love GNU/Linux things, FOSS, and a Future DevOps. I use GitHub mostly for storing my stuffs those made my life (a bit) easier.
 </p>
 <p></p>
 <img src="mokou-sleeping.png" alt="Mokou-chan!" align="center">
