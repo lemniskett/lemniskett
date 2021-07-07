@@ -4,7 +4,7 @@
 </p>
 <p align="end"><samp>-----+</samp></p>
 <details align="center">
-    <summary>Stats</summary>
+    <summary><samp>Stats</samp></summary>
     <br>
     <a href="//github.com/lemniskett/gh-stats"><img src="https://raw.githubusercontent.com/lemniskett/gh-stats/master/generated/overview.svg"></a>
 </details>
