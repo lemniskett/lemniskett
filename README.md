@@ -6,5 +6,5 @@
 <details align="center">
     <summary><samp>Stats</samp></summary>
     <br>
-    <a href="//github.com/lemniskett/gh-stats"><img src="https://raw.githubusercontent.com/lemniskett/gh-stats/master/generated/overview.svg"></a>
+    <a href="//github.com/lemniskett/gh-stats"><img src="https://github-readme-stats.vercel.app/api?username=lemniskett"></a>
 </details>
