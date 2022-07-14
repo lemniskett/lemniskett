@@ -1,4 +1,4 @@
-<h1 align="center"><samp><a href="https://git.lemniskett.me/lemniskett">Go to my GitLab!</a></samp></h1>
+<h1 align="center"><samp><a href="https://git.lemniskett.me/lemniskett">Go to my Gitea!</a></samp></h1>
 <p align="left"><samp>+-----</samp></p>
 <p align="center">
     <samp>Love GNU/Linux things and FOSS enjoyer</samp>
